@@ -1,4 +1,4 @@
-
+// if we want to connect mysqli database. then this file is neccessary, otherwise not needed
   <?php
 
  class QueryDatabase {
